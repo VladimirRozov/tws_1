@@ -1,0 +1,13 @@
+ru\itmo\generated\package-info.class
+ru\itmo\generated\ObjectFactory.class
+ru\itmo\generated\GetAll.class
+ru\itmo\generated\LoyaltyWebService.class
+ru\itmo\App.class
+ru\itmo\generated\LoyaltyService.class
+ru\itmo\generated\GetAllResponse.class
+ru\itmo\generated\Loyalty.class
+ru\itmo\ConnectionUtil.class
+ru\itmo\PostgreSQLDAO.class
+ru\itmo\LoyaltyService.class
+ru\Client.class
+ru\itmo\Loyalty.class
